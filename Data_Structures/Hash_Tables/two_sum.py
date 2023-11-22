@@ -9,6 +9,7 @@ def two_sum(a_list, target):
 
 
 a_list = [1,2,3,4,5]
+
 index, b = two_sum(a_list, 6)
 print(index)
 print(b)
